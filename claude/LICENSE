@@ -25,8 +25,31 @@ Copyright (c) 2026 RaetOS LLC. All rights reserved.
    (e) use the RaetOS name, logo or marks in a way that suggests affiliation
        with or endorsement by RaetOS.
    Viewing the files on a public repository does not grant any right to use
-   them beyond section 2. Anthropic may host and display the Plugin as needed
-   to operate its plugin directory for users who choose to install it.
+   them beyond section 2. Any fork or copy that GitHub's terms allow is for
+   viewing on GitHub only and carries no right to use, modify or redistribute.
+   No patent right is granted, and no right is granted by implication.
+
+   Directory distribution. RaetOS grants Anthropic, PBC a non-exclusive,
+   royalty-free license to reproduce, host, display and distribute the
+   unmodified Plugin through its plugin directory to users who choose to
+   install it, and to make the copies needed to scan and review it. This does
+   not permit modification, any other use, or distribution outside that
+   directory, and it ends when RaetOS withdraws the Plugin from it.
+
+   Third-party names. Claude and Anthropic are marks of Anthropic, PBC, and
+   ChatGPT, Gemini and Copilot are marks of their owners. This license grants
+   no right in any of them. RaetOS is not endorsed by or affiliated with them
+   except as the directory listing states.
+
+   Contributions. RaetOS does not accept contributions to this repository. If
+   you send any suggestion, code or other material anyway, you grant RaetOS a
+   perpetual, irrevocable, worldwide, royalty-free right to use it for any
+   purpose without attribution or payment, and you confirm you have the right
+   to do so.
+
+   Changes. RaetOS may update, suspend or withdraw the Plugin at any time and
+   has no duty to support it. You may not assign this license, and any
+   attempt to do so is void.
 
 4. Your RaetOS account. Use of the RaetOS service is governed by the Terms at
    https://raetos.com/terms and the Privacy Policy at
