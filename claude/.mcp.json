@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "raetos": {
+      "type": "http",
+      "url": "https://raetos.com/api/mcp/rv1"
+    }
+  }
+}

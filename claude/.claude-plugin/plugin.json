@@ -1,0 +1,13 @@
+{
+  "name": "raetos",
+  "displayName": "RaetOS",
+  "version": "1.0.0",
+  "description": "Explore your recorded career evidence and saved jobs, and capture completed work for review in RaetOS. Requires a RaetOS account and your explicit approval.",
+  "author": {
+    "name": "RaetOS LLC",
+    "url": "https://raetos.com"
+  },
+  "homepage": "https://raetos.com",
+  "license": "SEE LICENSE IN LICENSE",
+  "keywords": ["career", "accomplishments", "interview preparation", "job opportunities"]
+}
