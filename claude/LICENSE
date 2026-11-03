@@ -1,5 +1,63 @@
-Copyright (c) RaetOS LLC. All rights reserved.
+RaetOS Connected App Plugin - Proprietary License
 
-These plugin files are provided for use with RaetOS (https://raetos.com) and
-a RaetOS account. No other license is granted. RaetOS service use is governed
-by the Terms at https://raetos.com/terms.
+Copyright (c) 2026 RaetOS LLC. All rights reserved.
+
+1. Ownership. These files (the "Plugin"), including the manifest, connector
+   configuration, skill instructions and documentation, and the names RaetOS
+   and Raet|OS, are the property of RaetOS LLC ("RaetOS"). They are licensed,
+   not sold. RaetOS keeps all right, title and interest not expressly granted
+   here. Nothing here transfers ownership or grants a license by implication
+   or estoppel.
+
+2. Limited permission. RaetOS grants you a non-exclusive, non-transferable,
+   revocable, royalty-free license to install and run the Plugin unmodified,
+   in Claude or another assistant RaetOS supports, solely to connect your own
+   RaetOS account (https://raetos.com). No other use is permitted.
+
+3. Restrictions. Without RaetOS's prior written permission you may not:
+   (a) copy, modify, translate or create derivative works of the Plugin;
+   (b) redistribute, publish, sublicense, sell, rent or host it, alone or
+       bundled in another product, plugin, directory or repository;
+   (c) point it at a server other than the RaetOS service, or use it to
+       access, scrape, reverse engineer or probe the RaetOS service beyond
+       the permissions your own account grants;
+   (d) remove or change any copyright, license or attribution notice;
+   (e) use the RaetOS name, logo or marks in a way that suggests affiliation
+       with or endorsement by RaetOS.
+   Viewing the files on a public repository does not grant any right to use
+   them beyond section 2. Anthropic may host and display the Plugin as needed
+   to operate its plugin directory for users who choose to install it.
+
+4. Your RaetOS account. Use of the RaetOS service is governed by the Terms at
+   https://raetos.com/terms and the Privacy Policy at
+   https://raetos.com/privacy, which control over this license for anything
+   about the service itself.
+
+5. Termination. This license ends automatically if you breach it, and RaetOS
+   may revoke it at any time by notice or by removing the Plugin. On
+   termination you must stop using the Plugin and delete your copies.
+   Sections 1, 3, 6, 7 and 8 survive.
+
+6. No warranty. The Plugin is provided "as is" and "as available", without
+   warranties of any kind, express or implied, including merchantability,
+   fitness for a particular purpose and non-infringement, to the fullest
+   extent permitted by law.
+
+7. Limitation of liability. To the fullest extent permitted by law, RaetOS is
+   not liable for indirect, incidental, special, consequential or punitive
+   damages, or for lost profits or data, arising from the Plugin. RaetOS's
+   total liability for any claim relating to the Plugin is limited to USD 100.
+   Nothing here limits liability that cannot be limited by law.
+
+8. Governing law. This license is governed by the laws of the State of
+   Michigan, without regard to conflict-of-laws principles, and disputes will
+   be brought in a state or federal court located in Michigan, except where
+   mandatory law requires otherwise. RaetOS may seek injunctive relief for
+   infringement of its intellectual property in any court of competent
+   jurisdiction.
+
+9. General. If a provision is unenforceable, the rest stays in effect. No
+   waiver is effective unless written. This is the entire license for the
+   Plugin.
+
+Contact: see https://raetos.com/contact
