@@ -32,6 +32,12 @@ Connected apps.
 
 A RaetOS account is required: https://raetos.com
 
+## Where it works
+
+Claude on the web, Desktop and mobile, and Cowork. Claude Code is not supported
+yet, because RaetOS sign-in for Claude Code is not available. A connection
+attempt there will fail.
+
 ## Skills
 
 `career-evidence`, `interview-preparation`, `saved-opportunity-review` and
